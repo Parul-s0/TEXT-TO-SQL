@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Uploads
+backend/uploads/
+
+# Environment
+.env
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
